@@ -1,0 +1,14 @@
+[
+    {
+        "tipo": "juridico",
+        "razonSocial": "DM"
+    },
+    {
+        "tipo": "natural",
+        "razonSocial": "cerati"
+    },
+    {
+        "tipo": "juridico",
+        "razonSocial": "aha"
+    }
+]
